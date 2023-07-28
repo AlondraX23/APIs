@@ -1,0 +1,30 @@
+[
+    {
+    "titulo": "Primavera",
+    "texto": "Primavera es una de las cuatro estaciones del año , que sigue al invierno y precede al verano . Es conocida por ser una estación de transición, en la cual las temperaturas comienzan a aumentar y la flora y fauna se reactivan después del periodo de hibernación invernal.",
+    "imagen": "https://images.unsplash.com/photo-1503919483171-9ffc1debc390?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJpbWF2ZXJhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "color_card": "border-success",
+    "color_text": "text-dark"
+    },
+    {
+        "titulo": "Verano",
+    "texto": "El verano es la estación del año que sigue a la primavera y precede al otoño . Astronómicamente, comienza en el solsticio de verano y termina en el equinoccio de otoño . Se caracteriza por ser la época más calurosa y soleada del año.",
+    "imagen": "https://images.unsplash.com/photo-1601674213739-a76b845ec04d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dmVyYW5vJTIwZXN0YWNpJUMzJUIzbnxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "color_card": "border-warning",
+    "color_text": "text-dark"
+    },
+    {
+        "titulo": "Otoño",
+    "texto": "El otoño es una de las cuatro estaciones del año , que sigue al verano y precede al invierno . Astronómicamente, comienza en el equinoccio de otoño y termina en el solsticio de invierno . Esta estación se caracteriza por ser una época de transición en la que la temperatura comienza a descender gradualmente y los días se acortan.",
+    "imagen": "https://images.unsplash.com/photo-1604244151622-42ffc3b61bb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHZlcmFubyUyMGVzdGFjaSVDMyVCM258ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "color_card": "border-danger-subtle",
+    "color_text": "text-dark"
+    },
+    {
+        "titulo": "Invierno",
+    "texto": "El invierno es la estación más fría del año y sigue a la otoño y precede a la primavera . Astronómicamente, comienza en el solsticio de invierno y termina en el equinoccio de primavera . Se caracteriza por tener días más cortos , noches más largas y temperaturas más bajas.",
+    "imagen": "https://images.unsplash.com/photo-1608259158285-3ea03e3105d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmVyYW5vJTIwZXN0YWNpJUMzJUIzbnxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "color_card": "border-light-subtle",
+    "color_text": "text-dark"
+    }
+]
