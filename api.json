@@ -24,7 +24,7 @@
         "titulo": "Invierno",
     "texto": "El invierno es la estación más fría del año y sigue a la otoño y precede a la primavera . Astronómicamente, comienza en el solsticio de invierno y termina en el equinoccio de primavera . Se caracteriza por tener días más cortos , noches más largas y temperaturas más bajas.",
     "imagen": "https://images.unsplash.com/photo-1608259158285-3ea03e3105d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmVyYW5vJTIwZXN0YWNpJUMzJUIzbnxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "color_card": "border-light-subtle",
+    "color_card": "border-info",
     "color_text": "text-dark"
     }
 ]
