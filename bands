@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "genre_id": 1,
+    "name": "Pink Floyd",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "genre_id": 2,
+    "name": "Iron Maiden",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "genre_id": 3,
+    "name": "AC/DC",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "genre_id": 4,
+    "name": "Metallica",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "genre_id": 2,
+    "name": "Alice Cooper",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 6,
+    "genre_id": 2,
+    "name": "Kiss",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 7,
+    "genre_id": 2,
+    "name": "Europe",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 8,
+    "genre_id": 2,
+    "name": "Motorhead",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 9,
+    "genre_id": 4,
+    "name": "Kreator",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 10,
+    "genre_id": 2,
+    "name": "Kraken",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 11,
+    "genre_id": 1,
+    "name": "Pink Floyd",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 12,
+    "genre_id": 2,
+    "name": "Iron Maiden",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 13,
+    "genre_id": 3,
+    "name": "AC/DC",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 14,
+    "genre_id": 4,
+    "name": "Metallica",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 15,
+    "genre_id": 2,
+    "name": "Alice Cooper",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 16,
+    "genre_id": 2,
+    "name": "Kiss",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 17,
+    "genre_id": 2,
+    "name": "Europe",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 18,
+    "genre_id": 2,
+    "name": "Motorhead",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 19,
+    "genre_id": 4,
+    "name": "Kreator",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 20,
+    "genre_id": 2,
+    "name": "Kraken",
+    "created_at": null,
+    "updated_at": null
+  }
+]
