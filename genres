@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Progressive Rock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "name": "Heavy Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "name": "Thrash Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "name": "Hard Rock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "name": "Progressive Rock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 6,
+    "name": "Heavy Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 7,
+    "name": "Thrash Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 8,
+    "name": "Hard Rock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 9,
+    "name": "Progressive Rock",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 10,
+    "name": "Heavy Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 11,
+    "name": "Thrash Metal",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 12,
+    "name": "Hard Rock",
+    "created_at": null,
+    "updated_at": null
+  }
+]
