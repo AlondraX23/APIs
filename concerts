@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "band_id": 1,
+    "name": "The Dark Side of the Moon",
+    "date": "1973-03-10",
+    "time": 142.49,
+    "place": "London",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "band_id": 1,
+    "name": "The Wall",
+    "date": "1979-11-30",
+    "time": 181.09,
+    "place": "London",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "band_id": 2,
+    "name": "Fear of the Dark",
+    "date": "1992-05-11",
+    "time": 158.36,
+    "place": "London",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "band_id": 2,
+    "name": "The Number of the Beast",
+    "date": "1982-03-22",
+    "time": 139.16,
+    "place": "London",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "band_id": 3,
+    "name": "The Razors Edge Concert",
+    "date": "1990-09-24",
+    "time": 146.42,
+    "place": "Toronto",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 6,
+    "band_id": 3,
+    "name": "Highway to Hell Concert",
+    "date": "1989-07-27",
+    "time": 141.41,
+    "place": "Berlin",
+    "created_at": null,
+    "updated_at": null
+  }
+]
